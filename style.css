@@ -1,6 +1,6 @@
 h1{
 	font-family: 'Crimson Text', serif;
-	color:cyan;
+	
 }
 
 
@@ -12,4 +12,7 @@ body {
 	font-family: 'Raleway', sans-serif;
 }
 
-img { width:200px; }
+img { width:200px;}
+
+
+#footer {background-color:blue;} 
