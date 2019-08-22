@@ -16,3 +16,18 @@ img { width:200px;}
 
 
 #footer {background-color:blue;} 
+
+#lowerfooter {background-color:black;} 
+
+#lowerfooter {font-size:60px; color:#fff;margin:32px 24px 16px 8px}
+
+.memberBenefits i {font-size:200px;color:#fff;}
+.memberBenefits p {font-size:24px;color:#fff;margin-top:12px}
+.mBBox {background-color:#4FAAB8;padding:15px;border-radius:15px}
+
+
+
+.pBox{border:#fff 1px solid;border-radius:8px;margin:8px}
+.Pbox img {z-index:-1;border-radius:8px}
+.pBox button {z-index:2;position:absolute;right:25%;padding:8px;margin-top:-36px;border-radius:8px;}
+.pBox button:hover {}
